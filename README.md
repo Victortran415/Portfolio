@@ -1,12 +1,14 @@
-# Unit 08 Project 1 Homework: Professional Materials
+# My Portfolio
 
-This is my updated portfolio. In this portfolio, I added my LinkedIn, Github pages, and downloadable resume. To present the different projects and assignments that I've created, I added deployable links and gifs to some of my applications. I also added an About Me page to tell a little bit about myself. 
+## Description
+This is my portfolio, I've added some applications that I've created with deployable links and some gifs to show some brief overview on how the app looks. I posted my github account, linkedIn, and my resume in a pdf file. 
 
-Github repo: https://github.com/Victortran415/UpdatePortfolio
 
-Github pages: https://victortran415.github.io/UpdatePortfolio/
+Github repo: https://github.com/Victortran415/Portfolio
 
-![](https://media.giphy.com/media/bLklMQ0KDZL1YeoC9u/giphy.gif)
+Github pages: https://victortran415.github.io/Portfolio/
+
+<img src='./assets/img/port_gif.gif' style="width: 600px">
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
